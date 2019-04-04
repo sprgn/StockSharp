@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/sprgn/sprgn/_apis/build/status/sprgn.StockSharp?branchName=master)](https://dev.azure.com/sprgn/sprgn/_build/latest?definitionId=1&branchName=master)
+
 <img src="https://github.com/StockSharp/StockSharp/blob/master/Media/SLogo.png" align="right" />
 
 # [StockSharp - trading platform][1] 
